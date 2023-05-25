@@ -1,6 +1,6 @@
 ---
 title: ohun_paper_data
-author: AUTOR NAME
+author: Marcelo Araya-Salas
 output: github_document
 date: "`r Sys.Date()`"
 editor_options:
@@ -8,47 +8,10 @@ editor_options:
 ---
 
 <!-- Short Description  -->
-This is a short description of the project
+Data repository for paper describin the [R package ohun]()
 
-*Updated on `r Sys.time()`*
+The associated code is available at this [google colab notebook](https://colab.research.google.com/drive/115nmxxe1pdSqshTW2ABlBNddhVPpCV6F?usp=sharing)
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-
-library(rmarkdown)
-
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  out.width = "100%"
-)
-```
-
-
-## Table of contents
-* [General info](#general-info)
-  * [Analyses](#Analyses)
-    * [To do list](#to-do-list)
-      * [Contact](#contact)
-
-## General info
-
-General information about the project (study system, goals, etc)
-
-## Analysis
-
-* Analysis 1
-
-## In progress
-
-*  Something not finished yet
-
-## To-do list
-
-* Do the next analysis
-
-## Status
-Project is: _in progress_
 
 ## Contact
-Created by [Autor name](website_URL)
+Created by [Marcelo Araya-Salas](marce10.github.io/)
